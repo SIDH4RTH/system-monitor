@@ -7,7 +7,7 @@ It uses **Tkinter** for GUI, **Matplotlib** for graphs, and **psutil** for syste
 
 - Real-time monitoring of CPU, GPU, Memory, and Disk.
 - Usage and temperature graphs with live updates.
-- Progress bars with color coding for usage (green) and temperature (red).
+- Progress bars with color coding.
 - CPU and GPU temperature display.
 - Cross-platform support (Windows & Linux).
 - Modular design:
