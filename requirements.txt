@@ -1,0 +1,4 @@
+psutil
+matplotlib
+wmi; platform_system=="Windows"
+nvidia-ml-py; platform_system=="Windows"
